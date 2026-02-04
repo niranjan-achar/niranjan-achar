@@ -11,7 +11,7 @@
 ### 🤖 **Jarvis – Enterprise AI Assistant**
 Self-hosted LLM-powered knowledge assistant using semantic search and retrieval-augmented generation (RAG).  
 **Tech:** LLaMA, FastAPI, Pinecone, Streamlit, Python  
-🔗 https://github.com/niranjan-achar/jarvis-ai
+🔗 https://github.com/niranjan-achar/jarvis
 
 ---
 
@@ -22,14 +22,14 @@ Razorpay payment gateway, automated PDF invoice generation, enabling real-time a
 operations using Node.js, Express, MongoDB, Next.js, and Socket.io 
 
 **Tech:** MERN Stack, JWT Auth, MongoDB, REST APIs, Cloud Hosting  
-🔗 https://github.com/niranjan-achar/intellirack
+🔗 https://github.com/niranjan-achar/intellirack-web
 
 ---
 
 ### ⚙️ **DevOps / GitOps Automation Platform**
 CI/CD and GitOps-based deployment pipeline with containerized microservices and cloud-native delivery.  
 **Tech:** Docker, Kubernetes, GitHub Actions, Argo CD, Ansible, AWS  
-🔗 https://github.com/niranjan-achar/devops-gitops-platform
+🔗 https://github.com/niranjan-achar/quizie
 
 ---
 
