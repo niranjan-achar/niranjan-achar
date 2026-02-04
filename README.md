@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Niranjan Acharya**
 **Full-Stack Developer | AI Engineer | Cloud & DevOps Enthusiast**
 
-🚀 I build scalable SaaS platforms, AI-powered systems, and real-time web applications with a strong focus on clean architecture, performance, and production readiness.  
-📍 India | 🌐 Open to collaboration and software engineering opportunities
+🚀 I build scalable Full Stack Applications, SaaS platforms, AI-powered systems, and real-time web applications with a strong focus on clean architecture, performance, and production readiness.  
+📍 Banglore, India | 🌐 Open to collaboration and software engineering opportunities
 
 ---
 
@@ -16,16 +16,13 @@ Self-hosted LLM-powered knowledge assistant using semantic search and retrieval-
 ---
 
 ### 📦 **IntelliRack – Smart Asset & Inventory Management System**
-SaaS platform for tracking, managing, and analyzing inventory with role-based access and real-time updates.  
+Developed a full-stack, IoT-enabled retail platform integrating barcode-based POS (manual & 
+automatic modes), real-time inventory synchronization, and secure digital payments. Implemented 
+Razorpay payment gateway, automated PDF invoice generation, enabling real-time analytics and scalable smart retail 
+operations using Node.js, Express, MongoDB, Next.js, and Socket.io 
+
 **Tech:** MERN Stack, JWT Auth, MongoDB, REST APIs, Cloud Hosting  
 🔗 https://github.com/niranjan-achar/intellirack
-
----
-
-### ✨ **Content-Gen – AI Content Generation Platform**
-AI-powered dashboard for generating blogs, captions, and marketing content using LLMs and a modern frontend.  
-**Tech:** React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, LLM APIs  
-🔗 https://github.com/niranjan-achar/Content-Gen
 
 ---
 
@@ -33,6 +30,13 @@ AI-powered dashboard for generating blogs, captions, and marketing content using
 CI/CD and GitOps-based deployment pipeline with containerized microservices and cloud-native delivery.  
 **Tech:** Docker, Kubernetes, GitHub Actions, Argo CD, Ansible, AWS  
 🔗 https://github.com/niranjan-achar/devops-gitops-platform
+
+---
+
+### ✨ **Content-Gen – AI Content Generation Platform**
+AI-powered dashboard for generating blogs, captions, and marketing content using LLMs and a modern frontend.  
+**Tech:** React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, LLM APIs  
+🔗 https://github.com/niranjan-achar/Content-Gen
 
 ---
 
