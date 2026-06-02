@@ -1,21 +1,41 @@
-# 👋 Hi, I'm **Niranjan Acharya**
-**Full-Stack Developer | AI Engineer | Cloud & DevOps Enthusiast**
+# 👋 Hi, I'm **Niranjan**
+**Full-Stack Developer **
 
-🚀 I build scalable Full Stack Applications, SaaS platforms, AI-powered systems, and real-time web applications with a strong focus on clean architecture, performance, and production readiness.  
+🚀 I build scalable Full Stack Applications, AI-powered systems, and real-time web applications with a strong focus on clean architecture, performance, and production readiness.  
+I enjoy working on challenging problems, collaborating with cross-functional teams, and presenting technical solutions in academic and professional environments.
 📍 Banglore, India | 🌐 Open to collaboration and software engineering opportunities
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/niranjan-achar
+- 📧 Email: niranjanachar3@gmail.com
 
 ---
 
 ## 🚀 Featured Projects (Top Work)
 
-### 🤖 **Jarvis – Enterprise AI Assistant**
-Self-hosted LLM-powered knowledge assistant using semantic search and retrieval-augmented generation (RAG).  
-**Tech:** LLaMA, FastAPI, Pinecone, Streamlit, Python  
-🔗 https://github.com/niranjan-achar/jarvis
+---
+
+### ⚙️ **Quizie - AI Powered Online Quiz Platform with DevOps / GitOps Automation**
+Online quiz platform that automatically generates timed quizzes using AI, evaluates answers, shows analytics, and stores users’ exam history.
+CI/CD and GitOps-based deployment pipeline with containerized microservices and cloud-native delivery.
+
+**Tech:** Docker, Git, GitHub Actions, Kubernetes, Argo CD, Ansible
+🔗 https://github.com/niranjan-achar/quizie
+**Live at ** https://quizie-quiz.vercel.app
 
 ---
 
-### 📦 **IntelliRack – Smart Asset & Inventory Management System**
+### ⚙️ **Aegis-Ai - An Autonomous and Self-Evolving Malware Detection System for Real-Time Threat Intelligence**
+Built an AI-powered malware detection platform that identifies evolving threats using deep learning, explainable AI, and continual learning, enabling adaptive detection, automated analysis, and self-evolving defense against emerging malware variants in real time.
+
+**Tech:** Python | FastAPI | React.js | PyTorch | ONNX Runtime | EfficientNet B1 | Redis 
+🔗 https://github.com/niranjan-achar/Aegis-AI
+
+---
+
+### 📦 **IntelliRack – Smart Asset & Inventory Management System ( Live Project )**
 Developed a full-stack, IoT-enabled retail platform integrating barcode-based POS (manual & 
 automatic modes), real-time inventory synchronization, and secure digital payments. Implemented 
 Razorpay payment gateway, automated PDF invoice generation, enabling real-time analytics and scalable smart retail 
@@ -26,24 +46,17 @@ operations using Node.js, Express, MongoDB, Next.js, and Socket.io
 
 ---
 
-### ⚙️ **DevOps / GitOps Automation Platform**
-CI/CD and GitOps-based deployment pipeline with containerized microservices and cloud-native delivery.  
-**Tech:** Docker, Kubernetes, GitHub Actions, Argo CD, Ansible, AWS  
-🔗 https://github.com/niranjan-achar/quizie
+### ✨ **SIEM-System**
+**Tech:** React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, LLM APIs  
+Avighna2 is a cutting-edge Security Information and Event Management (SIEM) platform that combines traditional security analysis with modern AI capabilities. Built with privacy-first principles, it offers both web-based and command-line interfaces for comprehensive cybersecurity monitoring and incident response.
+🔗 https://github.com/niranjan-achar/SIEM-System
 
 ---
 
 ### ✨ **Content-Gen – AI Content Generation Platform**
 AI-powered dashboard for generating blogs, captions, and marketing content using LLMs and a modern frontend.  
-**Tech:** React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, LLM APIs  
+**Tech:** React, Tailwind CSS, FastAPI, PostgreSQL, LLM APIs  
 🔗 https://github.com/niranjan-achar/Content-Gen
-
----
-
-## 🧠 About Me
-I’m a software developer passionate about building **production-grade systems** that combine modern web technologies, AI, and cloud-native DevOps practices. I focus on designing **scalable APIs, secure platforms, and real-time applications** while continuously improving system performance, reliability, and user experience.
-
-I enjoy working on challenging problems, collaborating with cross-functional teams, and presenting technical solutions in academic and professional environments.
 
 ---
 
@@ -69,13 +82,11 @@ I enjoy working on challenging problems, collaborating with cross-functional tea
 - Configuration Management: Ansible  
 
 ### Cloud & Hosting
-- AWS (EC2, S3 – Learning & Deployment)  
+- AWS (EC2, S3) - Learning  
 - Vercel, Render  
 
-### Real-Time Systems
+### Security, API Protection & Real-Time Systems
 - WebSockets, Socket.io  
-
-### Security & API Protection
 - JWT Authentication  
 - API Security Best Practices  
 - CORS Configuration  
@@ -85,12 +96,12 @@ I enjoy working on challenging problems, collaborating with cross-functional tea
 - Postman  
 - Unit & Integration Testing  
 
-### Professional Skills
+### Soft Skills
 - Problem-Solving  
-- Technical Collaboration  
+- Collaboration  
 - Team Leadership  
 - Conference & Technical Presentations  
-- Rapid Tech Stack Adaptability  
+- Tech Stack Adaptability  
 
 ---
 
@@ -99,12 +110,5 @@ I enjoy working on challenging problems, collaborating with cross-functional tea
   <img src="https://github-readme-stats.vercel.app/api?username=niranjan-achar&show_icons=true&theme=tokyonight" />
 </p>
 
----
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/niranjan-achar  
-- 📧 Email: your.email@example.com  
-
----
-
-⭐ *“I design and build systems with scalability, security, and real-world usability in mind.”*
+⭐ *“ Driven by curiosity, continuous learning, and the challenge of transforming complex problems into practical solutions. ”*
