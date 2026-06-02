@@ -6,12 +6,13 @@ I enjoy working on challenging problems, collaborating with cross-functional tea
 
 📍 Banglore, India | 🌐 Open to collaboration and software engineering opportunities
 
+---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/niranjan-achar
 - 📧 Email: niranjanachar3@gmail.com
 
-
+---
 
 ## 🚀 Featured Projects (Top Work)
 
@@ -22,9 +23,9 @@ CI/CD and GitOps-based deployment pipeline with containerized microservices and 
 
 **Tech:** Docker, Git, GitHub Actions, Kubernetes, Argo CD, Ansible
 
-🔗 https://github.com/niranjan-achar/quizie
-
 **Live at** https://quizie-quiz.vercel.app
+
+🔗 https://github.com/niranjan-achar/quizie
 
 ---
 
