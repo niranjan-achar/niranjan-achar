@@ -8,7 +8,7 @@ I enjoy working on challenging problems, collaborating with cross-functional tea
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/niranjan-achar
 - 📧 Email: niranjanachar3@gmail.com
 
